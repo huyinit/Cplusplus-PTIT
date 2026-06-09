@@ -1,18 +1,73 @@
-Cám ơn các bạn đã click tài khoản github này thay vì hàng triệu cái ngoài kia .
+# 📖 Lời Mở Đầu
 
-LÀm ra đống này mình cx khá vất vả .Mình cũng đã trả giá vài thứ :mồ hôi, nước mắt, rồi liêm sỉ haha.
-Nhưng đó chính là khoảnh khắc đẹp , bước ngoặc lớn của bản thân mình .
-Mình muốn những gì mình để lại, muốn những mồ hôi nước mắt của bản thân phải thật có ý nghĩa , ít nhất là giúp các thế hệ kế tiếp mình không vấp ,ko vất như mình lúc trước.
+**Ngôn ngữ lập trình C++ – Ver 1: Chữa hơn 280 bài tập Code PTIT** được biên soạn nhằm hỗ trợ sinh viên trong quá trình học tập, rèn luyện tư duy thuật toán và làm quen với các dạng bài tập lập trình thường gặp tại PTIT.
 
-nên mình public đống tài liệu này lên với một niềm tin rằng các e đi sau mình có thể tận dụng được những gì mình đã code , tiết kiệm thời gian hơn khi học tập. 
-Bản pdf kia mình đã để dạng png . các bạn sẽ không thể copy được nhưng điều đó sẽ tốt cho tất cả mọi người :
-các bạn sẽ phải code lại hoặc sửa lại và nâng trình kiến thức , mình vẫn giữ được bản gốc , và hệ thống sẽ công tâm hơn với sinh viên (tránh sub code , cop code) . Nên vì những lí do đó bạn đọc đừng xin mình bản gốc nha .hehe
+Tài liệu tổng hợp lời giải của **hơn 280 bài tập Code PTIT** với tiêu chí:
 
-Cảm ơn đã đọc đến đây . Chúc bạn học tốt và A+ như mình nhé . Cố lên
+* ✅ Ngắn gọn
+* ✅ Dễ hiểu
+* ✅ Dễ triển khai
+* ✅ Tập trung vào tư duy giải quyết vấn đề
 
-contact mình qua: 
-fb: https://www.facebook.com/huyinit13
+Các lời giải được trình bày theo hướng thực hành, giúp người học nắm bắt ý tưởng và phương pháp tiếp cận bài toán thay vì chỉ ghi nhớ đáp án.
 
-youtube bài giảng :https://www.youtube.com/channel/UCgktVJ2PAuA3zHSR1A-K20w
+---
 
-youtube vlog :https://www.youtube.com/channel/UCskOQJ8MIQXTAQ_jGryJNcQ
+## ⚠️ Lưu Ý
+
+Tài liệu này **chỉ mang tính chất tham khảo**.
+
+* Không nên sử dụng trực tiếp mã nguồn trong các kỳ thi, bài kiểm tra hoặc hoạt động đánh giá học tập.
+* Mục tiêu quan trọng nhất của việc học lập trình là **hiểu bản chất vấn đề và tự xây dựng lời giải của riêng mình**.
+* Để hạn chế việc sao chép nguyên văn, tài liệu được phát hành dưới định dạng hình ảnh.
+
+---
+
+## 📚 Nguồn Tham Khảo
+
+Nội dung trong sách được tổng hợp và chọn lọc từ nhiều nguồn khác nhau:
+
+* Tài liệu học tập
+* Cộng đồng sinh viên
+* Các diễn đàn lập trình
+* Kinh nghiệm cá nhân của tác giả
+
+Do đó, một số lời giải có thể chưa phải là phương án tối ưu nhất về:
+
+* Độ phức tạp thuật toán
+* Hiệu năng thực thi
+* Phong cách lập trình
+
+Trong thực tế, luôn tồn tại nhiều cách tiếp cận khác nhau cho cùng một bài toán. Đôi khi những phương pháp đơn giản lại phù hợp hơn với người mới bắt đầu.
+
+---
+
+## 💡 Đóng Góp
+
+Mọi ý kiến đóng góp đều được trân trọng.
+
+Nếu bạn:
+
+* Phát hiện sai sót
+* Có lời giải tối ưu hơn
+* Có cách trình bày dễ hiểu hơn
+
+hãy liên hệ để cùng trao đổi và hoàn thiện các phiên bản tiếp theo của tài liệu.
+
+---
+
+## ❤️ Lời Cảm Ơn
+
+Hy vọng cuốn sách sẽ trở thành người bạn đồng hành hữu ích trên hành trình:
+
+* Chinh phục môn **Lập trình C++**
+* Rèn luyện tư duy thuật toán
+* Phát triển kỹ năng giải quyết vấn đề
+
+Chúc các bạn học tập hiệu quả và đạt được nhiều kết quả tốt trên con đường trở thành lập trình viên.
+
+---
+
+**Trân trọng,**
+
+**Huy Init**
